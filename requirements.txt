@@ -1,0 +1,9 @@
+intake-esgf
+xarray
+netcdf4
+numpy
+pandas
+dask
+cftime
+h5netcdf
+cf-xarray

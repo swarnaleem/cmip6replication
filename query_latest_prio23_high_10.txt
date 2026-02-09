@@ -1,0 +1,9 @@
+project=CMIP6
+activity_id=CFMIP CMIP DAMIP LS3MIP
+institution_id=CMCC NASA-GISS NCAR NOAA-GFDL
+source_id=CESM2 CESM2-FV2 CESM2-WACCM CESM2-WACCM-FV2 CMCC-CM2-SR5 GFDL-CM4 GISS-E2-1-G
+experiment_id=1pctCO2 abrupt-4xCO2 amip amip-piForcing esm-hist esm-piControl hist-GHG hist-aer hist-nat historical land-hist piControl
+variant_label=r10i1p1f1 r11i1p1f1 r1i1p1f1 r1i1p1f2 r1i1p3f1 r1i2p2f1 r2i1p1f1 r3i1p1f1 r3i1p2f1 r4i1p1f1 r5i1p1f1 r5i1p1f2 r6i1p1f1 r6i1p1f2 r6i1p3f1 r7i1p1f1 r8i1p1f1 r9i1p1f1
+table_id=CFday
+variable_id=albisccp ccb cct cl clcalipso clhcalipso cli clisccp clivi cllcalipso clmcalipso cltcalipso cltisccp clw clwvi hur hus mc pctisccp rldscs rlutcs rsdscs rsdt rsuscs rsut rsutcs ta ta700 ua va wap wap500 zg
+grid_label=gn gr2
